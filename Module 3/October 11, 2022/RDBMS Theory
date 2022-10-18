@@ -1,0 +1,51 @@
+DBMS:
+JDBC->Crud[Insert,View,Update,Delete]
+SQL->
+
+DDL->create,alter,drop,truncate,rename
+DML->insert,update,delete
+DQL->select
+DCL->rollback,commit
+Joins->inner join,left join, right join
+
+RDMBS:
+Functions:
+1)Agreegate functions
+SUM
+MAX
+MIN
+AVG
+FIRST
+LAST
+
+2)Scalar Functions
+UCASE
+LCASE
+MID
+LEN
+ROUND
+NOW
+FORMAT
+
+
+views=>
+
+
+procedure vs function
+=>procedure may have a return type
+=>function compulsory have a return type
+
+insert
+update
+delete
+
+
+select * from info where id =myid;//dynamic work
+
+trigger
+1)BEFORE INSERT
+2)AFTER INSERT
+3)BEFORE UPDATE
+4)AFTER UPDATE
+5)BEFORE DELETE
+6)AFTER DELETE
